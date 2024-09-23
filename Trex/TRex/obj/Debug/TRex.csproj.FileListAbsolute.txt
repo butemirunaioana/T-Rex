@@ -1,0 +1,10 @@
+D:\Bute Miruna Ioana 10F\info opt\Trex\TRex\bin\Debug\TRex.exe.config
+D:\Bute Miruna Ioana 10F\info opt\Trex\TRex\bin\Debug\TRex.exe
+D:\Bute Miruna Ioana 10F\info opt\Trex\TRex\bin\Debug\TRex.pdb
+D:\Bute Miruna Ioana 10F\info opt\Trex\TRex\obj\Debug\TRex.csproj.AssemblyReference.cache
+D:\Bute Miruna Ioana 10F\info opt\Trex\TRex\obj\Debug\TRex.TRexMainClass.resources
+D:\Bute Miruna Ioana 10F\info opt\Trex\TRex\obj\Debug\TRex.Properties.Resources.resources
+D:\Bute Miruna Ioana 10F\info opt\Trex\TRex\obj\Debug\TRex.csproj.GenerateResource.cache
+D:\Bute Miruna Ioana 10F\info opt\Trex\TRex\obj\Debug\TRex.csproj.CoreCompileInputs.cache
+D:\Bute Miruna Ioana 10F\info opt\Trex\TRex\obj\Debug\TRex.exe
+D:\Bute Miruna Ioana 10F\info opt\Trex\TRex\obj\Debug\TRex.pdb
